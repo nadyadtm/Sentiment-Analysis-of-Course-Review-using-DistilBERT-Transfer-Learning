@@ -1,7 +1,5 @@
 # Sentiment-Analysis-of-Course-Review-using-DistilBERT-Transfer-Learning
 
-On Progress
-
 Log File
 
 **16/05/2023**
