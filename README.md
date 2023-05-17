@@ -5,4 +5,4 @@ Progress List
 | Date  | Progress |
 | ------------- | ------------- |
 | 16/05/2023  | I found that doing downsampling isn't a good idea. The accuracy is very low (25%) and the loss is more than one (>1) in every epoch. Maybe there are some loss information. So I'll try to use class weight in the loss function. The file will be push soon.  |
-| 17/05/2023 | Have using class weight in loss function, but the accuracy is in 50%. The file has been pushed (distilbert-with-class-weight.ipynb and distilbert-with-downsampling.ipynb). Next will try to labeling the sentiment based on rating threshold and need to do more preprocessing. Also I'll try to train with more epoch. **UPDATED** for downsampling, I changed the NN architecture and now the result is around 40%|
+| 17/05/2023 | Have using class weight in loss function, but the accuracy is in 50%. The file has been pushed (distilbert-with-class-weight.ipynb and distilbert-with-downsampling.ipynb). Next will try to labeling the sentiment based on rating threshold and need to do more preprocessing. Also I'll try to train with more epoch. **UPDATED** for downsampling, the result is around 40%|
