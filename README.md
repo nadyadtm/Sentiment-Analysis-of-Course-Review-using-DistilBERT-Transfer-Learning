@@ -12,3 +12,5 @@ https://www.kaggle.com/code/nadyadtm/distilbert-with-class-weight/notebook
 | 21/05/2023 | Try to labeling the sentiment based on rating threshold (4-5 positive, 3 neutral, 1-2 negative). After I labeled the sentence, the accuracy changed to around 80% |
 | 22/05/2023 | Add more text analysis (wordcloud) and some preprocessing and simple narration, try to increase epoch, using parameter based on paper (optimizer Adam and learning rate 5-e5), but the precision and recall in negative and neutral class is very low. I have been update it to distilbert-with-class-weight.ipynb |
 | 24/05/2023 | Add comparison to BERT based |
+| 25/05/2023 - 13/07/2023 | I lost my progress, but I tried to improve the narrations, techniques, and analysis |
+| 14/07/2023 | Improve the narrations |
