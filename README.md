@@ -1,6 +1,7 @@
 # Sentiment Analysis of Course Review using DistilBERT Transfer Learning
 
 ## My Final Result is on Kaggle, you can view it in here
+Notes : the narrations is in Indonesia
 https://www.kaggle.com/code/nadyadtm/distilbert-with-class-weight/notebook
 
 ## Progress List
