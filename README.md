@@ -1,9 +1,9 @@
-# Sentiment-Analysis-of-Course-Review-using-DistilBERT-Transfer-Learning
+# Sentiment Analysis of Course Review using DistilBERT Transfer Learning
 
 ## My Final Result is on Kaggle, you can view it in here
 https://www.kaggle.com/code/nadyadtm/distilbert-with-class-weight/notebook
 
-Progress List
+## Progress List
 
 | Date  | Progress |
 | ------------- | ------------- |
